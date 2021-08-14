@@ -120,7 +120,7 @@ SSH into the control node and follow the steps below:
 |     ansible -m   ping all                                |     Verify the   connection of all ansible containers    |
 
 
-###Resources
+Resources
 
 - Arora, S. 2021. What is Ansible and How to Use Ansible Docker. Retrieved from https://www.simplilearn.com/tutorials/ansible-tutorial/what-is-ansible
 
