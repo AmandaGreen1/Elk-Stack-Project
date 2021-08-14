@@ -4,15 +4,15 @@ A project demonstrating the configuration of an Elk stack server and set up of a
 
 The files in this repository were used to configure the network depicted below.
 
-![alt text]
+![/Imange/Elk-Stack Diagram.jpg](https://github.com/AmandaGreen1/Elk-Stack-Project/tree/main/Diagram)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-  - [Ansible](https://docs.google.com/document/d/1mCb7aUuOvfHch5GpdM_j1hp8rsLu28_9/edit?usp=sharing&ouid=118229848406843865602&rtpof=true&sd=true)
-  - [Filebeat](https://drive.google.com/file/d/1QC4391G81c8G_QwzwJl74dwQ0k7W6tnC/view?usp=sharing)
-  - [Metricbeat](https://drive.google.com/file/d/1eQ3LT0SoB2boXY6TMBhsxP4b9MicGsiD/view?usp=sharing)
-  - [Elk Installation](https://drive.google.com/file/d/1w5KT8HDggeuXbZGsFyNUsqVCQOO75OMw/view?usp=sharing)
+  - [Ansible](https://github.com/AmandaGreen1/Elk-Stack-Project/tree/main/Ansible)
+  - [Filebeat](https://github.com/AmandaGreen1/Elk-Stack-Project/tree/main/Filebeat)
+  - [Metricbeat](https://github.com/AmandaGreen1/Elk-Stack-Project/tree/main/Metricbeat)
+  - [Elk Installation](https://github.com/AmandaGreen1/Elk-Stack-Project/tree/main/Elk%20Installation)
 
 This document contains the following details:
 - Description of the Topology
